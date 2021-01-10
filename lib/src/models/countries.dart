@@ -807,13 +807,6 @@ final List<Country> countryList = [
       currencyCode: "EUR",
       currencyName: "Euro"),
   Country(
-      name: "Israel",
-      isoCode: "IL",
-      iso3Code: "ISR",
-      phoneCode: "972",
-      currencyCode: "ILS",
-      currencyName: "Israeli new shekel"),
-  Country(
       name: "Isle of Man",
       isoCode: "IM",
       iso3Code: "IMN",
